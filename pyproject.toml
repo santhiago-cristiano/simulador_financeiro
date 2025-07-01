@@ -7,6 +7,5 @@ requires-python = ">=3.13"
 dependencies = [
     "pandas>=2.3.0",
     "plotly[express]>=6.2.0",
-    "python-dateutil>=2.9.0.post0",
     "streamlit>=1.46.1",
 ]
